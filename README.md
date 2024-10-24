@@ -1,5 +1,7 @@
 I'm going to put the things that I make that are "done" but show off what they do.
 
+In the addon folder is a bag addon for WoW client 2.4.3 that will pull the display ID from the custom items and actually show the right icon instead of that ugly red quesstion mark. 
+
 >Helpful Demon Creature 190014 <-- creature_template
 Creates an NPC at the entry ID 190014 is already configured to be a succubus and vendor.
 
